@@ -1,0 +1,31 @@
+header {
+    background-color: #fe0000;
+    height: 100px;
+    position : static;
+}
+
+nav {
+    background-color: #007fff;
+    height: 40px;
+}
+
+section {
+    background-color: #fec6c5;
+    width: 515px;
+    height: 800px;
+    float: left;
+}
+
+aside {
+    background-color: #fe80fe;
+    width: 650px;
+    height: 800px ;
+    float: right;
+}
+
+footer {
+    background-color: #80ff00;
+    height: 50px;
+    width: 99%;
+    float: inline-end;
+}
